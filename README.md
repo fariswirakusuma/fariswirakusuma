@@ -1,5 +1,7 @@
 ## PERSONAL REPO INFO:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| Statistik Umum | Statistik Bahasa |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=fariswirakusuma&show_icons=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact) |
 
 <!--
 **fariswirakusuma/fariswirakusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
