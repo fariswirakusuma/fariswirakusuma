@@ -9,11 +9,11 @@
 <!-- About Me -->
 <h3 align="center">✨ About Me</h3>
 
-<p align="center">
-  🚀 Passionate developer learning and building cool software projects.<br/>
-  💻 Always exploring new technologies and modern web tools.<br/>
-  📫 Feel free to connect with me!
-</p>
+<div align="center">
+  <b>Domain:</b> Informatics Engineering<br/>
+  <b>Core Competencies:</b> Systems Programming, Backend Infrastructure, Tools & DevOps<br/>
+  <b>Objective:</b> Engineering robust software systems and maintaining technical repositories
+</div>
 
 ---
 
