@@ -49,13 +49,6 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fariswirakusuma&theme=radical&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
 <br/>
 <h3 align="center">📊 GitHub Statistics</h3>
