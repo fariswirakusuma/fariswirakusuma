@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,go,py,java,dart,js,ts,react,svelte,flutter,ros,opencv,arduino,docker,cmake,gradle,linux,bash,git" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,go,py,java,js,ts,react,svelte,flutter,ros,opencv,arduino,docker,cmake,gradle,linux,bash,git,maven,dotnet" alt="My Tech Stack" />
   </a>
 </p>
 
