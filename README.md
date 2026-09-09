@@ -10,8 +10,7 @@
 
 <div align="center">
   <b>Domain:</b> Informatics Engineering<br/>
-  <b>Core Competencies:</b> Systems Programming, Backend Infrastructure, Embedded Systems, Graphics Engineering, Robotics & Web Development<br/>
-  <b>Objective:</b> Engineering robust software systems and maintaining technical repositories
+  <b>Core:</b> Systems Programming, Backend Infrastructure, Embedded Systems, Graphics Engineering, Robotics & Web Development<br/>
 </div>
 
 ---
