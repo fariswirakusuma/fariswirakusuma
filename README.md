@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-bawaldev.vercel.app/api?username=fariswirakusuma&show_icons=true&theme=radical&hide_border=true&v=1" height="170" alt="Faris's GitHub Stats" />
+    <img src="https://github-readme-stats-bawaldev.vercel.app/api?username=fariswirakusuma&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" height="170" alt="Faris's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-bawaldev.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&langs_count=8&theme=radical&hide_border=true&v=1" height="170" alt="Top Languages" />
