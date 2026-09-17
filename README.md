@@ -10,7 +10,7 @@
 
 <div align="center">
   <b>Domain:</b> Informatics Engineering<br/>
-  <b>Core:</b> Systems Programming, Backend Infrastructure, Embedded Systems, Graphics Engineering, Robotics & Web Development<br/>
+  <b>Core:</b> HPC, Backend Prog, Embedded Systems, Graphics Engineering, Robotics & IOT<br/>
 </div>
 
 <br/>
