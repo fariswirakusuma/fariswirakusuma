@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-omega-three-11.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&langs_count=8&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&theme=algolia&langs_count=7"/>
   </a>
 </div>
 
