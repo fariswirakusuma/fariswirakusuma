@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&theme=algolia&langs_count=7"/>
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariswirakusuma&layout=compact&theme=algolia&langs_count=10"/>
   </a>
 </div>
 
