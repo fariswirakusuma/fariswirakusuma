@@ -11,6 +11,7 @@
 <div align="center">
   <b>Domain:</b> Informatics Engineering<br/>
   <b>Core:</b> HPC, Backend Prog, Embedded Systems, Graphics Engineering, Robotics & IOT<br/>
+  <b>Undergraduate Student of Institut Teknologi Bandung</b>
 </div>
 
 <br/>
