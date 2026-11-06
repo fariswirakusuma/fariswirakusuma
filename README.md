@@ -8,7 +8,7 @@
 <!-- About Me -->
 ### ✨ About Me
 
-- **Domain:** Informatics Engineering (ITB)
+
 - **Core Focus:** High-Performance Computing (HPC), Backend, Embedded Systems, Graphics Engineering, Robotics & IoT
 
 <br/>
